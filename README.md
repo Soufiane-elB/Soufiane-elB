@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: berichtje
 - 😄 Pronouns: Him
-- ⚡ Fun fact:Bananas are berries, but strawberries are not! 🍌🍓
+- ⚡ Fun fact: Bananas are berries, but strawberries are not! 🍌🍓
 
 <!---
 Soufiane-elB/Soufiane-elB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
